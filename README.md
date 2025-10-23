@@ -1,5 +1,5 @@
 ## Hello World! 👋
-I am Elias and I am a 3d printing content creator and a highschool student.
+Im citr0net and I am a 3d printing content creator and a highschool student. I am currently learning python in computer science
 
 [![My Skills](https://skillicons.dev/icons?i=python,linux,arch,bash,raspberrypi,html,css,docker,kubernetes&theme=dark)](https://skillicons.dev)
 
