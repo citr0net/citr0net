@@ -1,5 +1,5 @@
 ## Hello World! 👋
-Im citr0net and I am a 3d printing content creator and a highschool student. I am currently learning python in computer science
+Im citr0net and I am a 3d printing content creator and a high school student. I am currently learning python.
 
 [![My Skills](https://skillicons.dev/icons?i=python,linux,arch,bash,raspberrypi,html,css,docker,kubernetes&theme=dark)](https://skillicons.dev)
 
