@@ -14,7 +14,7 @@
 ![de](https://img.shields.io/badge/Hyprland-00A1D4?style=for-the-badge&logo=hyprland&logoColor=white)
 
 ### Socials:
-[![instagram](https://img.shields.io/badge/Instagram-833ab4?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/citr0net)
+[![instagram](https://img.shields.io/badge/Instagram-FF0062?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/citr0net)
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@citr0net)
 [![discord](https://img.shields.io/badge/discord-4e5d94?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KVkjjswV2u)
 
