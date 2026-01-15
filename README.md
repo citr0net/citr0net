@@ -23,4 +23,4 @@
 
 ### Contact me:
 ![email](https://img.shields.io/badge/Email-4e5d94?style=for-the-badge&logo=gmail&logoColor=white)
-Discord: `citr0net`
+* Discord: `citr0net`
