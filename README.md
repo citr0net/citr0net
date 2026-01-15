@@ -21,5 +21,6 @@
 ### Stats:
 [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=citr0net&theme=gruvbox)](https://github.com/FajarKim/github-readme-profile)
 
-### contact me:
+### Contact me:
 ![email](https://img.shields.io/badge/Email-4e5d94?style=for-the-badge&logo=gmail&logoColor=white)
+Discord: `citr0net`
