@@ -19,7 +19,7 @@
 [![discord](https://img.shields.io/badge/discord-4e5d94?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KVkjjswV2u)
 
 ### Stats:
-[![GitHub Stats]([[https://gh-readme-profile.vercel.app/api?username=citr0net&theme=dark](https://gh-readme-profile.vercel.app/api?username=citr0net&theme=gruvbox))](https://github.com/FajarKim/github-readme-profile])<br/>
+[![GitHub Stats]([https://gh-readme-profile.vercel.app/api?username=FajarKim](https://gh-readme-profile.vercel.app/api?username=citr0net&theme=gruvbox))](https://github.com/citr0net/)
 
 ### contact me:
 ![email](https://img.shields.io/badge/Email-4e5d94?style=for-the-badge&logo=gmail&logoColor=white)
