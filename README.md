@@ -2,6 +2,7 @@
 * Content Creator
 * Student
 * 3D Printing & Linux Nerd
+* Gruvbox is the best colorscheme
 
 ### Skills:
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
