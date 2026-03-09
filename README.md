@@ -8,7 +8,7 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![javascript](https://img.shields.io/badge/Javascript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black)
+![javascript](https://img.shields.io/badge/Javascript-EFD81D?style=for-the-badge&logo=javascript&logoColor=grey)
 
 ### Setup:
 ![OS](https://img.shields.io/badge/Arch%20Linux-0F94D2?style=for-the-badge&logo=archlinux&logoColor=white)
