@@ -13,7 +13,7 @@
 ### Setup:
 ![OS](https://img.shields.io/badge/Arch%20Linux-0F94D2?style=for-the-badge&logo=archlinux&logoColor=white)
 ![LaptopOS](https://img.shields.io/badge/endeavouros%20-7E3EBE?style=for-the-badge&logo=endeavouros&logoColor=white)
-![de](https://img.shields.io/badge/Hyprland-00A1D4?style=for-the-badge&logo=hyprland&logoColor=white)
+![de](https://img.shields.io/badge/KDE-00A1D4?style=for-the-badge&logo=hyprland&logoColor=white)
 
 ### Socials:
 [![instagram](https://img.shields.io/badge/Instagram-FF0062?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/citr0net)
