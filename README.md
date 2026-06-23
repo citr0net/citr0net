@@ -12,7 +12,7 @@
 
 ### Setup:
 ![OS](https://img.shields.io/badge/Arch%20Linux-0F94D2?style=for-the-badge&logo=archlinux&logoColor=white)
-![LaptopOS](https://img.shields.io/badge/NixOS%20-7db8e3?style=for-the-badge&logo=nixos&logoColor=white)
+![LaptopOS](https://img.shields.io/badge/NixOS%20-5276c2?style=for-the-badge&logo=nixos&logoColor=white)
 ![de](https://img.shields.io/badge/KDE-00A1D4?style=for-the-badge&logo=kde&logoColor=white)
 
 ### Socials:
